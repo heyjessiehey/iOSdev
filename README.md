@@ -1,6 +1,6 @@
 # iOSdev
 iOS Mobile Development
-[x] Assignment 1 (AllAboutMe)
+[ x ] Assignment 1 (AllAboutMe)
   - Create a new iOS app, using the Single View Application template
-[x] MyCourses
+[ x ] MyCourses
   - Create a new iOS app, using the Single View Application template.
